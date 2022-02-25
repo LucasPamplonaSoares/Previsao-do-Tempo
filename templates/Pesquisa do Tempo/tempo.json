@@ -1,0 +1,105 @@
+{
+    "by": "city_name",
+    "valid_key": true,
+    "results": {
+        "temp": 24,
+        "date": "2022-02-24",
+        "time": "21:58",
+        "condition_code ": "27",
+        "description": "Noite Muito nublado",
+        "actualmente": "noite",
+        "cid": "",
+        "city": "Campinas, SP",
+        "img_id": "27n",
+        " umidade": 73,
+        "wind_speedy": "3,09 km/h",
+        "sunrise": "06:01 am",
+        "sunset": "06:41 pm",
+        "condition_slug": "clear_night",
+        "city_name": "{cidade},{uf}",
+        "forecast": [
+            {
+                "date": "24/02",
+                "weekday": "Qui",
+                "max": 29,
+                "min": 18,
+                "description": "Campinas esparsas",
+                "condition": "chuva"
+            },
+            {
+                "date": "25/02",
+                "weekday": "Sexo",
+                "max": 30,
+                "min": 18,
+                "description": "Parcialmente nublado",
+                "condition ": "cloudly_day"
+            },
+            {
+                "date": "26/02",
+                "weekday": "Sáb",
+                "max": 30,
+                "min": 19,
+                "description": "Chuvas esparsas",
+                "condition": "rain"
+            },
+            {
+                "date": "27/02",
+                "weekday": "Dom",
+                "max": 30,
+                "min": 19,
+                "description": "Parcialmente nublado",
+                "condition": "cloudly_day"
+            },
+            {
+                "date": "28/02",
+                "weekday": "Seg",
+                "max": 29,
+                "min": 19,
+                "description": "Tempo nublado",
+                "condition": "cloudly_day"
+            },
+            {
+                "date": "01/03",
+                "weekday": "Ter",
+                "max": 29,
+                "min": 20,
+                "description": "Chuvas esparsas",
+                "condition": "chuva "
+            },
+            {
+                "date": "02/03",
+                "weekday": "Qua",
+                "max": 30,
+                "min": 19,
+                "description": "Chuvas esparsas",
+                "condition": "rain"
+            },
+            {
+                "date": "03/03",
+                "weekday": "Qui",
+                "max": 29,
+                "min": 19,
+                "description": "Chuvas esparsas",
+                "condition": "rain"
+            },
+            {
+                "date": "04/03",
+                "weekday": "Sexo",
+                "max": 30,
+                "min": 19,
+                "description": "Chuva",
+                "condition": "rain"
+            },
+            {
+                "data": "05/03",
+                "weekday": "Sáb",
+                "max": 28,
+                "min": 19,
+                "description": "Chuvas esparsas",
+                "condition": "rain"
+            }
+        ]
+    },
+    "execution_time": 0.11,
+    "from_cache": false
+}
